@@ -6,11 +6,12 @@
 - 😄 De risa: Creía que esto era tipo Forocoches 
 - ⚡Más hobbies: Excel, Digitalear, Osint, Escribir, Leer y Pasear con mi amiga peluda.
 - 🎓 Actualmente estoy aprendiendo...Toma nota:
-   - Python con IBM
-   - Cibersguridad (Beca Fundae)
-   - Tecnico IT  (Beca Fundae)
-   - Analista de Datos  (Beca Google)
-   - Inglés (desde los 12 años, pero mi cerebro lo rechaza)
+   * Python con IBM
+   * Cibersguridad (Beca Fundae)
+   * Tecnico IT  (Beca Fundae)
+   * Analista de Datos  (Beca Google)
+   * Inglés (desde los 12 años, pero mi cerebro lo rechaza)
+
 <!---
 WNYZ19/WNYZ19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
